@@ -1,0 +1,11 @@
+c:\users\asharma\source\repos\DataDumperTool\DataDumperTool\bin\Debug\DataDumperTool.exe.config
+c:\users\asharma\source\repos\DataDumperTool\DataDumperTool\bin\Debug\DataDumperTool.exe
+c:\users\asharma\source\repos\DataDumperTool\DataDumperTool\bin\Debug\DataDumperTool.pdb
+c:\users\asharma\source\repos\DataDumperTool\DataDumperTool\obj\Debug\DataDumperTool.csprojResolveAssemblyReference.cache
+c:\users\asharma\source\repos\DataDumperTool\DataDumperTool\obj\Debug\DataDumperTool.csproj.CoreCompileInputs.cache
+c:\users\asharma\source\repos\DataDumperTool\DataDumperTool\obj\Debug\DataDumperTool.exe
+c:\users\asharma\source\repos\DataDumperTool\DataDumperTool\obj\Debug\DataDumperTool.pdb
+c:\users\asharma\source\repos\DataDumperTool\DataDumperTool\bin\Debug\AerospikeClient.dll
+c:\users\asharma\source\repos\DataDumperTool\DataDumperTool\bin\Debug\Neo.Lua.dll
+c:\users\asharma\source\repos\DataDumperTool\DataDumperTool\bin\Debug\Neo.Lua.pdb
+c:\users\asharma\source\repos\DataDumperTool\DataDumperTool\bin\Debug\Neo.Lua.xml
