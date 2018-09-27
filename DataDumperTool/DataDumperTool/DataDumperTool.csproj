@@ -52,7 +52,7 @@
   <ItemGroup>
     <Compile Include="AerospikeAccess.cs" />
     <Compile Include="GetDataFromCsv.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="UserEntryPoint.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TrumpTwitterWars.cs" />
   </ItemGroup>

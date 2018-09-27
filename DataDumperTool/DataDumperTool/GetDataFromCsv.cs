@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic; 
 using Microsoft.VisualBasic.FileIO;
 using System.IO;
+using System;
 
 /// <summary>
 /// Get All Data from the CSV file 
@@ -31,10 +32,10 @@ namespace DataDumperTool
                     string[] fields = csvParser.ReadFields();
 
                     dummyData.Description = fields[0];
-                    dummyData.StatusesCount = fields[1];
-                    dummyData.FollowersCount = fields[2];
-                    dummyData.FavoritesCount = fields[3];
-                    dummyData.FriendsCount = fields[4];
+                    dummyData.StatusesCount = Convert.ToInt32(fields[1]);
+                    dummyData.FollowersCount = Convert.ToInt32(fields[2]);
+                    dummyData.FavoritesCount = Convert.ToInt32(fields[3]);
+                    dummyData.FriendsCount = Convert.ToInt32(fields[4]);
                     dummyData.Url = fields[5];
                     dummyData.Name = fields[6];
                     dummyData.Created = fields[7];
